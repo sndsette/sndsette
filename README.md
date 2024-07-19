@@ -2,11 +2,11 @@ Hi there! i'm Soundous 🎀🦢
 
 🎨 UI/UX Design Wizard: I sprinkle a little magic to make interfaces seamless and aesthetically pleasing that enhance the user experience.
 
-🌐 Networking & Telecommunication : Connecting the dots in the world of telecommunication, one network at a time.
+🌐 Networking & Telecommunication : Passionate about the infrastructure that connects the world.
 
 💻 Front-End Fairy: Bringing pixels to life with a dash of code and a lot of love.
 
-📊 Database Dynamo: Ensuring data is always neat, tidy, and ready for action.
+📊 Database enthusiast: Ensuring data is always neat, tidy, and ready for action.
 
 🦢  Always curious and eager to learn new technologies and improve my skills.
 
