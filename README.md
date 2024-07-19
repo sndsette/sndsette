@@ -6,7 +6,7 @@ Hi there! i'm Soundous 🎀🦢
 
 💻 Front-End Fairy: Bringing pixels to life with a dash of code and a lot of love.
 
-📊 Database enthusiast: Ensuring data is always neat, tidy, and ready for action.
+📊 Database enthusiast
 
 🦢  Always curious and eager to learn new technologies and improve my skills.
 
